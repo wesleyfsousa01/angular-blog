@@ -1,0 +1,13 @@
+@media screen and (max-width: 600px) {
+  .menu_title_container h1{
+    font-size: 10px;
+  }
+}
+
+
+
+.menu_title_container {
+  color: aliceblue;
+ }
+
+
